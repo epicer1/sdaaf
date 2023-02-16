@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[user]
+	name = Replit user
+	email = <>
+[remote "origin"]
+	url = https://github.com/Teerths/tethersproxylolol
+	fetch = +refs/heads/*:refs/remotes/origin/*
